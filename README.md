@@ -1,4 +1,3 @@
-# E-commerce-website 
 # E-commerce Store with React, Supabase, and Paytm
 
 A modern e-commerce platform built with React, TypeScript, Tailwind CSS, and Supabase for the backend. Features include user authentication, shopping cart management, wishlists, and Paytm payment integration.
